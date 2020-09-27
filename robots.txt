@@ -1,3 +1,0 @@
-﻿User-agent: *
-Disallow: /card
-Disallow: /mobil_version

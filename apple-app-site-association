@@ -7,5 +7,8 @@
       "paths": ["*"]
     }
     ]
+  },
+  "appclips": {
+    "apps": ["K45H8BE6TJ.dk.nearcrowd.clip"]
   }
 }

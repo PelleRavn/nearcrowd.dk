@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
     {
-      "appID": "K45H8BE6TJ.dk.nearcrowd",
+      "appID": "K45H8BE6TJ.dk.nearcrowd.app",
       "paths": ["*"]
     }
     ]
   },
   "appclips": {
-    "apps": ["K45H8BE6TJ.dk.nearcrowd.clip"]
+    "apps": ["K45H8BE6TJ.dk.nearcrowd.app.clip"]
   }
 }
